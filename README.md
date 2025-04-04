@@ -35,4 +35,4 @@ Je suis un **QA** passionné par la **qualité logicielle**, l'**automatisation 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiuschyneves)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaiuschy)
 
 #### 📖 Disponible dans d'autres langues :  
-[![Português](https://cdn-icons-png.flaticon.com/24/197/197386.png)](https://github.com/Kaiuschy/KaiuschyPT) [![Français](https://cdn-icons-png.flaticon.com/24/197/197560.png)](https://github.com/Kaiuschy/KaiuschyFR) [![English](https://cdn-icons-png.flaticon.com/24/197/197374.png)](https://github.com/Kaiuschy/KaiuschyEN)
+[![Português](https://cdn-icons-png.flaticon.com/24/197/197386.png)](https://github.com/Kaiuschy/KaiuschyPT) [![English](https://cdn-icons-png.flaticon.com/24/197/197374.png)](https://github.com/Kaiuschy/KaiuschyEN) [![Français](https://cdn-icons-png.flaticon.com/24/197/197560.png)](https://github.com/Kaiuschy/KaiuschyFR) 
